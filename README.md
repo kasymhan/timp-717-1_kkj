@@ -1,4 +1,4 @@
 # timp-717-1_kkj
 
-3 practice:
- 	single-linked list 
+4 practice:
+ 	work in single-linked list
