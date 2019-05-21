@@ -1,5 +1,5 @@
 # timp-717-1_kkj
 
-6 practice:
+7 practice:
 	work in algorittm:
-		rashecka,shella
+		bistray,piramidal
