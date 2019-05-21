@@ -1,4 +1,6 @@
 # timp-717-1_kkj
 
-4 practice:
- 	work in single-linked list
+5 practice:
+ 	work on tree:
+		bypass the tree in width and in depth and backward traversalll
+
